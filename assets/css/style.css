@@ -157,7 +157,7 @@ body{
 }
 .wpWoo h1{
   font-size: 4.6554vw;
-  color: white;
+  color: rgb(115,126,158);
   margin: 0;
   line-height: 1;
   text-shadow: -1px 1px 1px rgba(150, 150, 150, 1);
@@ -169,7 +169,7 @@ body{
 .wpWoo p{
   float: right;
   font-family: 'Roboto-LightItalic';
-  color: white;
+  color: rgb(81,87,236);
   font-size: 1.675vw;
   margin: 0;
 }
@@ -207,10 +207,10 @@ body{
 .getStartedNowButton{
   border: none;
   position: relative;
-  width: 19.692vw;
-  height: 3.91vw;
+  width: 15.1769vw;
+  height: 4.46927vw;
   border-radius: 1.6vw;
-  background: linear-gradient(to right, rgba(78,83,223,1) 0%, rgba(138,143,238,1) 100%);
+  background: rgb(0,63,251);
   font-family: 'Roboto-Regular';
   color: white;
   font-size: 1.636vw;
